@@ -96,6 +96,7 @@ for tex in parquet_textures:
 print(f"Serving {SERVE_DIR}...")
 print(f"    http://localhost:{PORT}/test_redball.html")
 print(f"    http://localhost:{PORT}/test_parquet.html")
+print(f"    http://localhost:{PORT}/test_suzanne.html")
 print(f"    http://localhost:{PORT}/test_leaks.html")
 
 port = 8000
